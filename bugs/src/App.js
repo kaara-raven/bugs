@@ -19,7 +19,7 @@ const App = () => {
 
   // Store
   const handleFormSubmit = (data) => {
-    if ( data.bug === "eggbug" ) { console.log("you fucking monster");}
+    if ( data.bug === "eggbug" ) { console.log("you fucking monster!");}
     const updatedFormData = [data, ...formData];
     setFormData(updatedFormData);
 
