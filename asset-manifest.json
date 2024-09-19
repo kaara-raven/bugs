@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/killingbugsagain/static/css/main.ae81cb52.css",
-    "main.js": "/killingbugsagain/static/js/main.2847924f.js",
-    "index.html": "/killingbugsagain/index.html",
-    "main.ae81cb52.css.map": "/killingbugsagain/static/css/main.ae81cb52.css.map",
-    "main.2847924f.js.map": "/killingbugsagain/static/js/main.2847924f.js.map"
+    "main.css": "/bugs/static/css/main.ae81cb52.css",
+    "main.js": "/bugs/static/js/main.2847924f.js",
+    "index.html": "/bugs/index.html",
+    "main.ae81cb52.css.map": "/bugs/static/css/main.ae81cb52.css.map",
+    "main.2847924f.js.map": "/bugs/static/js/main.2847924f.js.map"
   },
   "entrypoints": [
     "static/css/main.ae81cb52.css",
