@@ -1,0 +1,75 @@
+body{
+  background-color:antiquewhite; 
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.page{
+  width: 100%;
+  text-align: center;
+}
+
+h1{ 
+  white-space: nowrap;
+}
+
+label{
+  display: block;
+  font-weight: bold;
+  padding: 5px;
+  text-align: center;
+}
+
+input{
+  width: 600px;
+  max-width: 600px;
+  margin: auto;
+}
+
+button{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 45px;
+  padding-right: 45px;
+  margin-top: 15px;
+  margin-bottom: 50px;
+}
+
+
+
+.rules{
+  text-align: center;
+  margin: auto;
+}
+
+.qdate{
+  padding-bottom: 5px;
+  padding-top: 5px;
+  width: 100px !important;
+  text-align: center;
+  margin: auto;
+}
+
+table{
+  margin: auto;
+  border: 2px solid;
+  border-collapse: collapse;
+  width: 80%;
+}
+
+tr, th{
+  margin: auto;
+  border: 2px solid;
+}
+
+td{
+  margin: auto;
+  border: 2px solid;
+}
+
+footer{
+  position: absolute;
+  bottom: 0;
+}
